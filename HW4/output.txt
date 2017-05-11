@@ -1,0 +1,130 @@
+{'nodeType': 'non-leaf', 'examples': 2000, 'gain': 0.06076700155176154, 'name': 'delicious', 'index': 769}
+	{'nodeType': 'non-leaf', 'examples': 1682, 'gain': 0.05312102373278729, 'name': 'amazing', 'index': 470}
+		{'nodeType': 'non-leaf', 'examples': 1472, 'gain': 0.05159574598419622, 'name': 'burger', 'index': 736}
+			{'nodeType': 'non-leaf', 'examples': 1298, 'gain': 0.0325757168935074, 'name': 'pizza', 'index': 188}
+				{'nodeType': 'non-leaf', 'examples': 1214, 'gain': 0.030693430324070563, 'name': 'thai', 'index': 126}
+					{'nodeType': 'non-leaf', 'examples': 1163, 'gain': 0.028038908485037334, 'name': 'korean', 'index': 506}
+						{'nodeType': 'non-leaf', 'examples': 1131, 'gain': 0.03000799166921031, 'name': 'bouchon', 'index': 367}
+							{'nodeType': 'non-leaf', 'examples': 1102, 'gain': 0.021981675845441143, 'name': 'portions', 'index': 799}
+								{'nodeType': 'non-leaf', 'examples': 1039, 'gain': 0.02260957069506525, 'name': 'wellington', 'index': 600}
+									{'nodeType': 'non-leaf', 'examples': 1021, 'gain': 0.017712712235704985, 'name': 'attentive', 'index': 81}
+										{'nodeType': 'leaf', 'prediction': 0, 'examples': 997}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 24}
+									{'nodeType': 'non-leaf', 'examples': 18, 'gain': 0.0, 'name': 'unless', 'index': 0}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 18}
+										{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+								{'nodeType': 'non-leaf', 'examples': 63, 'gain': 0.10588309397833207, 'name': 'frozen', 'index': 61}
+									{'nodeType': 'non-leaf', 'examples': 56, 'gain': 0.08246664050235486, 'name': 'wasnt', 'index': 189}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 52}
+										{'nodeType': 'leaf', 'prediction': 0, 'examples': 4}
+									{'nodeType': 'leaf', 'prediction': 0, 'examples': 7}
+							{'nodeType': 'non-leaf', 'examples': 29, 'gain': 0.0, 'name': 'unless', 'index': 0}
+								{'nodeType': 'non-leaf', 'examples': 29, 'gain': 0.0, 'name': 'unless', 'index': 0}
+									{'nodeType': 'non-leaf', 'examples': 29, 'gain': 0.0, 'name': 'unless', 'index': 0}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 29}
+										{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+									{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+								{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+						{'nodeType': 'non-leaf', 'examples': 32, 'gain': 0.060546875, 'name': 'foods', 'index': 17}
+							{'nodeType': 'non-leaf', 'examples': 31, 'gain': 0.0, 'name': 'unless', 'index': 0}
+								{'nodeType': 'non-leaf', 'examples': 30, 'gain': 0.0, 'name': 'unless', 'index': 0}
+									{'nodeType': 'non-leaf', 'examples': 30, 'gain': 0.0, 'name': 'unless', 'index': 0}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 30}
+										{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+									{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+								{'nodeType': 'leaf', 'prediction': 1, 'examples': 1}
+							{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+					{'nodeType': 'non-leaf', 'examples': 51, 'gain': 0.06355483369818526, 'name': 'space', 'index': 236}
+						{'nodeType': 'non-leaf', 'examples': 49, 'gain': 0.07177860288709506, 'name': 'staying', 'index': 316}
+							{'nodeType': 'non-leaf', 'examples': 47, 'gain': 0.03985671265770438, 'name': 'stay', 'index': 36}
+								{'nodeType': 'non-leaf', 'examples': 46, 'gain': 0.04253308128544431, 'name': 'bbq', 'index': 219}
+									{'nodeType': 'non-leaf', 'examples': 45, 'gain': 0.0, 'name': 'unless', 'index': 0}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 45}
+										{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+									{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+								{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+							{'nodeType': 'leaf', 'prediction': 0, 'examples': 2}
+						{'nodeType': 'leaf', 'prediction': 0, 'examples': 2}
+				{'nodeType': 'non-leaf', 'examples': 84, 'gain': 0.11915069057926209, 'name': 'salad', 'index': 701}
+					{'nodeType': 'non-leaf', 'examples': 77, 'gain': 0.06481231611101734, 'name': 'tasted', 'index': 169}
+						{'nodeType': 'non-leaf', 'examples': 72, 'gain': 0.04948192239858923, 'name': 'cream', 'index': 123}
+							{'nodeType': 'non-leaf', 'examples': 70, 'gain': 0.026554273883466338, 'name': 'drink', 'index': 97}
+								{'nodeType': 'non-leaf', 'examples': 69, 'gain': 0.02773144544522299, 'name': 'tea', 'index': 135}
+									{'nodeType': 'non-leaf', 'examples': 68, 'gain': 0.028979238754325065, 'name': 'cause', 'index': 384}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 67}
+										{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+									{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+								{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+							{'nodeType': 'leaf', 'prediction': 0, 'examples': 2}
+						{'nodeType': 'leaf', 'prediction': 0, 'examples': 5}
+					{'nodeType': 'leaf', 'prediction': 0, 'examples': 7}
+			{'nodeType': 'non-leaf', 'examples': 174, 'gain': 0.056467332292595956, 'name': 'minutes', 'index': 142}
+				{'nodeType': 'non-leaf', 'examples': 151, 'gain': 0.03192605350405445, 'name': 'bland', 'index': 297}
+					{'nodeType': 'non-leaf', 'examples': 148, 'gain': 0.03392105992292388, 'name': 'worst', 'index': 448}
+						{'nodeType': 'non-leaf', 'examples': 145, 'gain': 0.023888976659488206, 'name': 'employees', 'index': 227}
+							{'nodeType': 'non-leaf', 'examples': 143, 'gain': 0.020901202780193324, 'name': 'dog', 'index': 578}
+								{'nodeType': 'non-leaf', 'examples': 138, 'gain': 0.013356698356629254, 'name': 'eggs', 'index': 192}
+									{'nodeType': 'non-leaf', 'examples': 137, 'gain': 0.013652048277353383, 'name': 'salty', 'index': 451}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 136}
+										{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+									{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+								{'nodeType': 'leaf', 'prediction': 0, 'examples': 5}
+							{'nodeType': 'leaf', 'prediction': 0, 'examples': 2}
+						{'nodeType': 'leaf', 'prediction': 0, 'examples': 3}
+					{'nodeType': 'leaf', 'prediction': 0, 'examples': 3}
+				{'nodeType': 'non-leaf', 'examples': 23, 'gain': 0.15600437767386344, 'name': 'id', 'index': 289}
+					{'nodeType': 'non-leaf', 'examples': 19, 'gain': 0.28956602031394263, 'name': 'has', 'index': 531}
+						{'nodeType': 'non-leaf', 'examples': 15, 'gain': 0.12444444444444439, 'name': 'crisp', 'index': 30}
+							{'nodeType': 'non-leaf', 'examples': 14, 'gain': 0.0, 'name': 'unless', 'index': 0}
+								{'nodeType': 'non-leaf', 'examples': 12, 'gain': 0.0, 'name': 'unless', 'index': 0}
+									{'nodeType': 'non-leaf', 'examples': 12, 'gain': 0.0, 'name': 'unless', 'index': 0}
+										{'nodeType': 'leaf', 'prediction': 0, 'examples': 12}
+										{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+									{'nodeType': 'leaf', 'prediction': 'random', 'examples': 0}
+								{'nodeType': 'leaf', 'prediction': 0, 'examples': 2}
+							{'nodeType': 'leaf', 'prediction': 1, 'examples': 1}
+						{'nodeType': 'leaf', 'prediction': 1, 'examples': 4}
+					{'nodeType': 'leaf', 'prediction': 1, 'examples': 4}
+		{'nodeType': 'non-leaf', 'examples': 210, 'gain': 0.034950869236583464, 'name': 'hot', 'index': 330}
+			{'nodeType': 'non-leaf', 'examples': 192, 'gain': 0.026675485008818306, 'name': 'worst', 'index': 448}
+				{'nodeType': 'non-leaf', 'examples': 189, 'gain': 0.01943480779459627, 'name': 'buffet', 'index': 909}
+					{'nodeType': 'non-leaf', 'examples': 182, 'gain': 0.009983914452374329, 'name': 'lack', 'index': 130}
+						{'nodeType': 'non-leaf', 'examples': 181, 'gain': 0.010150619469626823, 'name': 'mexican', 'index': 152}
+							{'nodeType': 'non-leaf', 'examples': 180, 'gain': 0.010321056624594857, 'name': 'club', 'index': 155}
+								{'nodeType': 'non-leaf', 'examples': 179, 'gain': 0.010495330947111511, 'name': 'chinese', 'index': 322}
+									{'nodeType': 'non-leaf', 'examples': 178, 'gain': 0.010673551033974576, 'name': 'rude', 'index': 807}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 177}
+										{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+									{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+								{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+							{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+						{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+					{'nodeType': 'leaf', 'prediction': 0, 'examples': 7}
+				{'nodeType': 'leaf', 'prediction': 0, 'examples': 3}
+			{'nodeType': 'non-leaf', 'examples': 18, 'gain': 0.1763668430335097, 'name': 'look', 'index': 889}
+				{'nodeType': 'non-leaf', 'examples': 14, 'gain': 0.17006802721088446, 'name': 'everyone', 'index': 68}
+					{'nodeType': 'non-leaf', 'examples': 12, 'gain': 0.16666666666666657, 'name': 'dish', 'index': 34}
+						{'nodeType': 'leaf', 'prediction': 0, 'examples': 9}
+						{'nodeType': 'leaf', 'prediction': 1, 'examples': 3}
+					{'nodeType': 'leaf', 'prediction': 1, 'examples': 2}
+				{'nodeType': 'leaf', 'prediction': 1, 'examples': 4}
+	{'nodeType': 'non-leaf', 'examples': 318, 'gain': 0.03265183947811212, 'name': 'legs', 'index': 20}
+		{'nodeType': 'non-leaf', 'examples': 312, 'gain': 0.029101950137574394, 'name': 'frozen', 'index': 61}
+			{'nodeType': 'non-leaf', 'examples': 305, 'gain': 0.01209994474319781, 'name': 'coupon', 'index': 323}
+				{'nodeType': 'non-leaf', 'examples': 303, 'gain': 0.007947151150758659, 'name': 'terrible', 'index': 283}
+					{'nodeType': 'non-leaf', 'examples': 300, 'gain': 0.006293645484950004, 'name': 'serendipity', 'index': 401}
+						{'nodeType': 'non-leaf', 'examples': 299, 'gain': 0.006357074966279894, 'name': 'worst', 'index': 448}
+							{'nodeType': 'non-leaf', 'examples': 298, 'gain': 0.006421359671213274, 'name': 'waste', 'index': 519}
+								{'nodeType': 'non-leaf', 'examples': 297, 'gain': 0.0031214386632980513, 'name': 'foods', 'index': 17}
+									{'nodeType': 'non-leaf', 'examples': 295, 'gain': 0.003185503361495321, 'name': 'disappointing', 'index': 824}
+										{'nodeType': 'leaf', 'prediction': 1, 'examples': 293}
+										{'nodeType': 'leaf', 'prediction': 'random', 'examples': 2}
+									{'nodeType': 'leaf', 'prediction': 'random', 'examples': 2}
+								{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+							{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+						{'nodeType': 'leaf', 'prediction': 0, 'examples': 1}
+					{'nodeType': 'leaf', 'prediction': 0, 'examples': 3}
+				{'nodeType': 'leaf', 'prediction': 0, 'examples': 2}
+			{'nodeType': 'leaf', 'prediction': 0, 'examples': 7}
+		{'nodeType': 'leaf', 'prediction': 0, 'examples': 6}
+ZERO-ONE-LOSS-DT 0.1055

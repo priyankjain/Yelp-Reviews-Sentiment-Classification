@@ -1,0 +1,865 @@
+priyank@priyank:~/Desktop/Dropbox/Spring 2017/DM/My HW Solutions/HW4$ python hw4.py
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 0
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 1
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 2
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 3
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 4
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 5
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 6
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 7
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 8
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 9
+TSS: 50 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 9
+[0.29, 0.41, 0.31, 0.38, 0.275, 0.425, 0.365, 0.34, 0.4, 0.345]
+[0.34, 0.46, 0.285, 0.28, 0.285, 0.39, 0.36, 0.35, 0.475, 0.295]
+[0.28, 0.445, 0.22, 0.335, 0.335, 0.38, 0.29, 0.25, 0.47, 0.325]
+[0.29, 0.41, 0.25, 0.395, 0.385, 0.36, 0.365, 0.34, 0.4, 0.4]
+[0.155, 0.33, 0.225, 0.23, 0.19, 0.22, 0.18, 0.26, 0.37, 0.195]
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 0
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 1
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 2
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 3
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 4
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 5
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 6
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 7
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 8
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 9
+TSS: 100 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 9
+[0.285, 0.285, 0.36, 0.325, 0.385, 0.305, 0.33, 0.29, 0.29, 0.315]
+[0.26, 0.155, 0.305, 0.2, 0.305, 0.24, 0.23, 0.17, 0.15, 0.27]
+[0.135, 0.255, 0.295, 0.235, 0.295, 0.235, 0.26, 0.215, 0.255, 0.325]
+[0.145, 0.215, 0.17, 0.17, 0.16, 0.175, 0.195, 0.185, 0.18, 0.2]
+[0.125, 0.165, 0.16, 0.145, 0.17, 0.185, 0.135, 0.155, 0.12, 0.105]
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 0
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 1
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 2
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 3
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 4
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 5
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 6
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 7
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 8
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 9
+TSS: 250 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 9
+[0.275, 0.205, 0.22, 0.215, 0.265, 0.28, 0.22, 0.195, 0.22, 0.32]
+[0.165, 0.15, 0.195, 0.235, 0.19, 0.16, 0.295, 0.135, 0.165, 0.3]
+[0.16, 0.165, 0.11, 0.13, 0.175, 0.235, 0.285, 0.125, 0.2, 0.31]
+[0.155, 0.18, 0.105, 0.1, 0.165, 0.11, 0.12, 0.115, 0.115, 0.17]
+[0.085, 0.125, 0.09, 0.105, 0.13, 0.065, 0.095, 0.11, 0.1, 0.1]
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 9
+[0.22, 0.195, 0.245, 0.235, 0.155, 0.22, 0.25, 0.21, 0.215, 0.21]
+[0.13, 0.105, 0.22, 0.165, 0.115, 0.14, 0.205, 0.12, 0.095, 0.2]
+[0.12, 0.16, 0.18, 0.16, 0.125, 0.135, 0.25, 0.16, 0.16, 0.225]
+[0.105, 0.105, 0.145, 0.095, 0.07, 0.11, 0.145, 0.095, 0.085, 0.065]
+[0.075, 0.055, 0.11, 0.06, 0.065, 0.095, 0.075, 0.08, 0.045, 0.085]
+[[[0.29, 0.41, 0.31, 0.38, 0.275, 0.425, 0.365, 0.34, 0.4, 0.345], [0.285, 0.285, 0.36, 0.325, 0.385, 0.305, 0.33, 0.29, 0.29, 0.315], [0.275, 0.205, 0.22, 0.215, 0.265, 0.28, 0.22, 0.195, 0.22, 0.32], [0.22, 0.195, 0.245, 0.235, 0.155, 0.22, 0.25, 0.21, 0.215, 0.21]], [[0.34, 0.46, 0.285, 0.28, 0.285, 0.39, 0.36, 0.35, 0.475, 0.295], [0.26, 0.155, 0.305, 0.2, 0.305, 0.24, 0.23, 0.17, 0.15, 0.27], [0.165, 0.15, 0.195, 0.235, 0.19, 0.16, 0.295, 0.135, 0.165, 0.3], [0.13, 0.105, 0.22, 0.165, 0.115, 0.14, 0.205, 0.12, 0.095, 0.2]], [[0.28, 0.445, 0.22, 0.335, 0.335, 0.38, 0.29, 0.25, 0.47, 0.325], [0.135, 0.255, 0.295, 0.235, 0.295, 0.235, 0.26, 0.215, 0.255, 0.325], [0.16, 0.165, 0.11, 0.13, 0.175, 0.235, 0.285, 0.125, 0.2, 0.31], [0.12, 0.16, 0.18, 0.16, 0.125, 0.135, 0.25, 0.16, 0.16, 0.225]], [[0.29, 0.41, 0.25, 0.395, 0.385, 0.36, 0.365, 0.34, 0.4, 0.4], [0.145, 0.215, 0.17, 0.17, 0.16, 0.175, 0.195, 0.185, 0.18, 0.2], [0.155, 0.18, 0.105, 0.1, 0.165, 0.11, 0.12, 0.115, 0.115, 0.17], [0.105, 0.105, 0.145, 0.095, 0.07, 0.11, 0.145, 0.095, 0.085, 0.065]], [[0.155, 0.33, 0.225, 0.23, 0.19, 0.22, 0.18, 0.26, 0.37, 0.195], [0.125, 0.165, 0.16, 0.145, 0.17, 0.185, 0.135, 0.155, 0.12, 0.105], [0.085, 0.125, 0.09, 0.105, 0.13, 0.065, 0.095, 0.11, 0.1, 0.1], [0.075, 0.055, 0.11, 0.06, 0.065, 0.095, 0.075, 0.08, 0.045, 0.085]]]
+ttest_rel for DT vs SVM for TSS 0.025: t = 6.81609  p = 7.76348e-05
+ttest_rel for DT vs SVM for TSS 0.05: t = 15.036  p = 1.10486e-07
+ttest_rel for DT vs SVM for TSS 0.125: t = 8.8607  p = 9.69835e-06
+ttest_rel for DT vs SVM for TSS 0.25: t = 16.6685  p = 4.49928e-08
+ttest_rel for BT vs SVM for TSS 0.025: t = 7.63536  p = 3.20691e-05
+ttest_rel for BT vs SVM for TSS 0.05: t = 4.23383  p = 0.00219416
+ttest_rel for BT vs SVM for TSS 0.125: t = 4.96639  p = 0.000773723
+ttest_rel for BT vs SVM for TSS 0.25: t = 6.73822  p = 8.47735e-05
+ttest_rel for RF vs SVM for TSS 0.025: t = 5.29092  p = 0.000499822
+ttest_rel for RF vs SVM for TSS 0.05: t = 5.66431  p = 0.000307944
+ttest_rel for RF vs SVM for TSS 0.125: t = 3.76131  p = 0.00447597
+ttest_rel for RF vs SVM for TSS 0.25: t = 6.86642  p = 7.3371e-05
+ttest_rel for BDT vs SVM for TSS 0.025: t = 5.88994  p = 0.000231947
+ttest_rel for BDT vs SVM for TSS 0.05: t = 3.1213  p = 0.0122927
+ttest_rel for BDT vs SVM for TSS 0.125: t = 3.94113  p = 0.00340014
+ttest_rel for BDT vs SVM for TSS 0.25: t = 3.46697  p = 0.00708254
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 0
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 1
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 2
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 3
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 4
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 5
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 6
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 7
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 8
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: BDT fold: 9
+TSS: 500 Features: 200 depth: 10 num_trees: 50 model: SVM fold: 9
+[0.295, 0.245, 0.215, 0.26, 0.24, 0.31, 0.375, 0.265, 0.34, 0.24]
+[0.125, 0.175, 0.17, 0.145, 0.18, 0.19, 0.245, 0.19, 0.24, 0.13]
+[0.175, 0.22, 0.15, 0.16, 0.17, 0.19, 0.245, 0.19, 0.235, 0.13]
+[0.175, 0.175, 0.165, 0.125, 0.19, 0.265, 0.21, 0.185, 0.17, 0.2]
+[0.17, 0.145, 0.16, 0.115, 0.135, 0.18, 0.195, 0.185, 0.125, 0.13]
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 0
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 1
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 2
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 3
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 4
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 5
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 6
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 7
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 8
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: BDT fold: 9
+TSS: 500 Features: 500 depth: 10 num_trees: 50 model: SVM fold: 9
+[0.185, 0.195, 0.215, 0.265, 0.205, 0.235, 0.225, 0.22, 0.175, 0.21]
+[0.11, 0.12, 0.12, 0.12, 0.175, 0.14, 0.225, 0.15, 0.16, 0.145]
+[0.16, 0.15, 0.135, 0.22, 0.15, 0.115, 0.22, 0.105, 0.135, 0.175]
+[0.1, 0.13, 0.125, 0.14, 0.15, 0.195, 0.125, 0.08, 0.115, 0.1]
+[0.055, 0.08, 0.095, 0.11, 0.12, 0.13, 0.145, 0.11, 0.11, 0.085]
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: SVM fold: 9
+[0.19, 0.175, 0.25, 0.24, 0.18, 0.275, 0.21, 0.205, 0.22, 0.14]
+[0.105, 0.11, 0.115, 0.17, 0.21, 0.19, 0.195, 0.145, 0.08, 0.165]
+[0.085, 0.15, 0.13, 0.19, 0.165, 0.24, 0.175, 0.13, 0.07, 0.19]
+[0.08, 0.12, 0.1, 0.11, 0.095, 0.125, 0.105, 0.1, 0.075, 0.09]
+[0.075, 0.08, 0.075, 0.055, 0.07, 0.075, 0.08, 0.11, 0.05, 0.05]
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 0
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 1
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 2
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 3
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 4
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 5
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 6
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 7
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 8
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: BDT fold: 9
+TSS: 500 Features: 1500 depth: 10 num_trees: 50 model: SVM fold: 9
+[0.205, 0.185, 0.155, 0.245, 0.245, 0.215, 0.275, 0.165, 0.17, 0.215]
+[0.105, 0.125, 0.15, 0.075, 0.24, 0.26, 0.32, 0.23, 0.065, 0.175]
+[0.095, 0.21, 0.17, 0.11, 0.285, 0.25, 0.255, 0.2, 0.1, 0.12]
+[0.105, 0.08, 0.12, 0.12, 0.12, 0.135, 0.12, 0.1, 0.065, 0.07]
+[0.07, 0.055, 0.075, 0.065, 0.075, 0.11, 0.085, 0.09, 0.045, 0.05]
+[[[0.295, 0.245, 0.215, 0.26, 0.24, 0.31, 0.375, 0.265, 0.34, 0.24], [0.185, 0.195, 0.215, 0.265, 0.205, 0.235, 0.225, 0.22, 0.175, 0.21], [0.19, 0.175, 0.25, 0.24, 0.18, 0.275, 0.21, 0.205, 0.22, 0.14], [0.205, 0.185, 0.155, 0.245, 0.245, 0.215, 0.275, 0.165, 0.17, 0.215]], [[0.125, 0.175, 0.17, 0.145, 0.18, 0.19, 0.245, 0.19, 0.24, 0.13], [0.11, 0.12, 0.12, 0.12, 0.175, 0.14, 0.225, 0.15, 0.16, 0.145], [0.105, 0.11, 0.115, 0.17, 0.21, 0.19, 0.195, 0.145, 0.08, 0.165], [0.105, 0.125, 0.15, 0.075, 0.24, 0.26, 0.32, 0.23, 0.065, 0.175]], [[0.175, 0.22, 0.15, 0.16, 0.17, 0.19, 0.245, 0.19, 0.235, 0.13], [0.16, 0.15, 0.135, 0.22, 0.15, 0.115, 0.22, 0.105, 0.135, 0.175], [0.085, 0.15, 0.13, 0.19, 0.165, 0.24, 0.175, 0.13, 0.07, 0.19], [0.095, 0.21, 0.17, 0.11, 0.285, 0.25, 0.255, 0.2, 0.1, 0.12]], [[0.175, 0.175, 0.165, 0.125, 0.19, 0.265, 0.21, 0.185, 0.17, 0.2], [0.1, 0.13, 0.125, 0.14, 0.15, 0.195, 0.125, 0.08, 0.115, 0.1], [0.08, 0.12, 0.1, 0.11, 0.095, 0.125, 0.105, 0.1, 0.075, 0.09], [0.105, 0.08, 0.12, 0.12, 0.12, 0.135, 0.12, 0.1, 0.065, 0.07]], [[0.17, 0.145, 0.16, 0.115, 0.135, 0.18, 0.195, 0.185, 0.125, 0.13], [0.055, 0.08, 0.095, 0.11, 0.12, 0.13, 0.145, 0.11, 0.11, 0.085], [0.075, 0.08, 0.075, 0.055, 0.07, 0.075, 0.08, 0.11, 0.05, 0.05], [0.07, 0.055, 0.075, 0.065, 0.075, 0.11, 0.085, 0.09, 0.045, 0.05]]]
+ttest_rel for DT vs SVM for number of features 200: t = 8.41026  p = 1.48118e-05
+ttest_rel for DT vs SVM for number of features 500: t = 12.9868  p = 3.91692e-07
+ttest_rel for DT vs SVM for number of features 1000: t = 10.3013  p = 2.79342e-06
+ttest_rel for DT vs SVM for number of features 1500: t = 10.5584  p = 2.27227e-06
+ttest_rel for BT vs SVM for number of features 200: t = 1.90194  p = 0.0896101
+ttest_rel for BT vs SVM for number of features 500: t = 6.00208  p = 0.000201984
+ttest_rel for BT vs SVM for number of features 1000: t = 5.19682  p = 0.00056646
+ttest_rel for BT vs SVM for number of features 1500: t = 4.46815  p = 0.00155882
+ttest_rel for RF vs SVM for number of features 200: t = 2.68742  p = 0.0249016
+ttest_rel for RF vs SVM for number of features 500: t = 3.75826  p = 0.00449701
+ttest_rel for RF vs SVM for number of features 1000: t = 4.63716  p = 0.00122418
+ttest_rel for RF vs SVM for number of features 1500: t = 5.63432  p = 0.000319932
+ttest_rel for BDT vs SVM for number of features 200: t = 3.35042  p = 0.00851781
+ttest_rel for BDT vs SVM for number of features 500: t = 2.31046  p = 0.0462015
+ttest_rel for BDT vs SVM for number of features 1000: t = 4.48359  p = 0.00152452
+ttest_rel for BDT vs SVM for number of features 1500: t = 7.13843  p = 5.43433e-05
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 5 num_trees: 50 model: BDT fold: 9
+[0.24, 0.19, 0.325, 0.325, 0.315, 0.285, 0.33, 0.225, 0.25, 0.235]
+[0.13, 0.16, 0.175, 0.165, 0.105, 0.185, 0.22, 0.135, 0.205, 0.135]
+[0.155, 0.15, 0.23, 0.35, 0.135, 0.285, 0.405, 0.13, 0.3, 0.335]
+[0.125, 0.085, 0.09, 0.125, 0.095, 0.155, 0.105, 0.12, 0.11, 0.09]
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 9
+[0.205, 0.285, 0.3, 0.2, 0.295, 0.225, 0.17, 0.24, 0.18, 0.295]
+[0.145, 0.315, 0.165, 0.19, 0.145, 0.165, 0.11, 0.17, 0.11, 0.16]
+[0.155, 0.34, 0.125, 0.085, 0.14, 0.22, 0.11, 0.095, 0.05, 0.19]
+[0.1, 0.135, 0.095, 0.08, 0.125, 0.14, 0.08, 0.115, 0.055, 0.08]
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 15 num_trees: 50 model: BDT fold: 9
+[0.17, 0.21, 0.145, 0.215, 0.2, 0.195, 0.195, 0.255, 0.21, 0.165]
+[0.19, 0.125, 0.13, 0.17, 0.18, 0.16, 0.26, 0.215, 0.1, 0.11]
+[0.16, 0.12, 0.095, 0.145, 0.09, 0.105, 0.115, 0.155, 0.08, 0.075]
+[0.085, 0.125, 0.08, 0.09, 0.06, 0.135, 0.09, 0.135, 0.05, 0.105]
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 20 num_trees: 50 model: BDT fold: 9
+[0.2, 0.17, 0.165, 0.21, 0.245, 0.215, 0.28, 0.22, 0.19, 0.185]
+[0.105, 0.23, 0.135, 0.1, 0.14, 0.125, 0.285, 0.125, 0.18, 0.12]
+[0.05, 0.145, 0.095, 0.075, 0.115, 0.095, 0.155, 0.115, 0.075, 0.105]
+[0.065, 0.115, 0.095, 0.085, 0.085, 0.11, 0.11, 0.11, 0.09, 0.08]
+[[[0.24, 0.19, 0.325, 0.325, 0.315, 0.285, 0.33, 0.225, 0.25, 0.235], [0.205, 0.285, 0.3, 0.2, 0.295, 0.225, 0.17, 0.24, 0.18, 0.295], [0.17, 0.21, 0.145, 0.215, 0.2, 0.195, 0.195, 0.255, 0.21, 0.165], [0.2, 0.17, 0.165, 0.21, 0.245, 0.215, 0.28, 0.22, 0.19, 0.185]], [[0.13, 0.16, 0.175, 0.165, 0.105, 0.185, 0.22, 0.135, 0.205, 0.135], [0.145, 0.315, 0.165, 0.19, 0.145, 0.165, 0.11, 0.17, 0.11, 0.16], [0.19, 0.125, 0.13, 0.17, 0.18, 0.16, 0.26, 0.215, 0.1, 0.11], [0.105, 0.23, 0.135, 0.1, 0.14, 0.125, 0.285, 0.125, 0.18, 0.12]], [[0.155, 0.15, 0.23, 0.35, 0.135, 0.285, 0.405, 0.13, 0.3, 0.335], [0.155, 0.34, 0.125, 0.085, 0.14, 0.22, 0.11, 0.095, 0.05, 0.19], [0.16, 0.12, 0.095, 0.145, 0.09, 0.105, 0.115, 0.155, 0.08, 0.075], [0.05, 0.145, 0.095, 0.075, 0.115, 0.095, 0.155, 0.115, 0.075, 0.105]], [[0.125, 0.085, 0.09, 0.125, 0.095, 0.155, 0.105, 0.12, 0.11, 0.09], [0.1, 0.135, 0.095, 0.08, 0.125, 0.14, 0.08, 0.115, 0.055, 0.08], [0.085, 0.125, 0.08, 0.09, 0.06, 0.135, 0.09, 0.135, 0.05, 0.105], [0.065, 0.115, 0.095, 0.085, 0.085, 0.11, 0.11, 0.11, 0.09, 0.08]]]
+ttest_rel for DT vs BT for depth 5: t = 6.58765 p = 0.000100698
+ttest_rel for DT vs BT for depth 10: t = 4.03123 p = 0.00296749
+ttest_rel for DT vs BT for depth 15: t = 2.03703 p = 0.0721108
+ttest_rel for DT vs BT for depth 20: t = 2.95492 p = 0.0160918
+ttest_rel for DT vs RF for depth 5: t = 0.86607 p = 0.408945
+ttest_rel for DT vs RF for depth 10: t = 3.84611 p = 0.00392962
+ttest_rel for DT vs RF for depth 15: t = 7.79481 p = 2.72251e-05
+ttest_rel for DT vs RF for depth 20: t = 8.94393 p = 8.98568e-06
+ttest_rel for DT vs BDT for depth 5: t = 9.79671 p = 4.24421e-06
+ttest_rel for DT vs BDT for depth 10: t = 9.71081 p = 4.56575e-06
+ttest_rel for DT vs BDT for depth 15: t = 9.04037 p = 8.231e-06
+ttest_rel for DT vs BDT for depth 20: t = 9.99635 p = 3.58914e-06
+ttest_rel for BT vs RF for depth 5: t = -3.38217 p = 0.00809904
+ttest_rel for BT vs RF for depth 10: t = 1.0146 p = 0.336796
+ttest_rel for BT vs RF for depth 15: t = 3.85376 p = 0.00388391
+ttest_rel for BT vs RF for depth 20: t = 4 p = 0.00311043
+ttest_rel for BT vs BDT for depth 5: t = 4.21237 p = 0.00226484
+ttest_rel for BT vs BDT for depth 10: t = 4.39561 p = 0.00173138
+ttest_rel for BT vs BDT for depth 15: t = 4.04167 p = 0.00292127
+ttest_rel for BT vs BDT for depth 20: t = 3.64027 p = 0.00539866
+ttest_rel for RF vs BDT for depth 5: t = 4.32388 p = 0.00192224
+ttest_rel for RF vs BDT for depth 10: t = 2.37993 p = 0.0412323
+ttest_rel for RF vs BDT for depth 15: t = 1.74614 p = 0.114739
+ttest_rel for RF vs BDT for depth 20: t = 1.11779 p = 0.292605
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 10 model: BDT fold: 9
+[0.24, 0.235, 0.165, 0.31, 0.27, 0.22, 0.185, 0.265, 0.175, 0.26]
+[0.175, 0.225, 0.17, 0.205, 0.225, 0.24, 0.215, 0.34, 0.285, 0.34]
+[0.205, 0.25, 0.255, 0.185, 0.175, 0.3, 0.225, 0.26, 0.235, 0.205]
+[0.115, 0.2, 0.18, 0.14, 0.145, 0.155, 0.14, 0.16, 0.195, 0.145]
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 25 model: BDT fold: 9
+[0.225, 0.155, 0.33, 0.245, 0.185, 0.195, 0.28, 0.19, 0.19, 0.19]
+[0.13, 0.17, 0.235, 0.155, 0.14, 0.155, 0.32, 0.135, 0.095, 0.175]
+[0.12, 0.19, 0.25, 0.15, 0.17, 0.165, 0.235, 0.155, 0.12, 0.09]
+[0.11, 0.12, 0.135, 0.1, 0.125, 0.12, 0.11, 0.105, 0.075, 0.06]
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 50 model: BDT fold: 9
+[0.215, 0.2, 0.295, 0.17, 0.265, 0.255, 0.27, 0.28, 0.28, 0.17]
+[0.16, 0.205, 0.21, 0.105, 0.115, 0.22, 0.115, 0.245, 0.23, 0.1]
+[0.105, 0.225, 0.21, 0.105, 0.115, 0.145, 0.155, 0.235, 0.19, 0.135]
+[0.09, 0.125, 0.085, 0.07, 0.13, 0.135, 0.115, 0.11, 0.085, 0.08]
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 0
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 1
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 2
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 3
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 4
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 5
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 6
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 7
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 8
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: DT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BT fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: RF fold: 9
+TSS: 500 Features: 1000 depth: 10 num_trees: 100 model: BDT fold: 9
+[0.175, 0.14, 0.17, 0.205, 0.23, 0.245, 0.225, 0.175, 0.195, 0.225]
+[0.08, 0.09, 0.125, 0.225, 0.085, 0.185, 0.105, 0.115, 0.105, 0.135]
+[0.065, 0.09, 0.17, 0.22, 0.11, 0.135, 0.075, 0.115, 0.185, 0.135]
+[0.06, 0.075, 0.1, 0.075, 0.135, 0.135, 0.09, 0.1, 0.1, 0.08]
+[[[0.24, 0.235, 0.165, 0.31, 0.27, 0.22, 0.185, 0.265, 0.175, 0.26], [0.225, 0.155, 0.33, 0.245, 0.185, 0.195, 0.28, 0.19, 0.19, 0.19], [0.215, 0.2, 0.295, 0.17, 0.265, 0.255, 0.27, 0.28, 0.28, 0.17], [0.175, 0.14, 0.17, 0.205, 0.23, 0.245, 0.225, 0.175, 0.195, 0.225]], [[0.175, 0.225, 0.17, 0.205, 0.225, 0.24, 0.215, 0.34, 0.285, 0.34], [0.13, 0.17, 0.235, 0.155, 0.14, 0.155, 0.32, 0.135, 0.095, 0.175], [0.16, 0.205, 0.21, 0.105, 0.115, 0.22, 0.115, 0.245, 0.23, 0.1], [0.08, 0.09, 0.125, 0.225, 0.085, 0.185, 0.105, 0.115, 0.105, 0.135]], [[0.205, 0.25, 0.255, 0.185, 0.175, 0.3, 0.225, 0.26, 0.235, 0.205], [0.12, 0.19, 0.25, 0.15, 0.17, 0.165, 0.235, 0.155, 0.12, 0.09], [0.105, 0.225, 0.21, 0.105, 0.115, 0.145, 0.155, 0.235, 0.19, 0.135], [0.065, 0.09, 0.17, 0.22, 0.11, 0.135, 0.075, 0.115, 0.185, 0.135]], [[0.115, 0.2, 0.18, 0.14, 0.145, 0.155, 0.14, 0.16, 0.195, 0.145], [0.11, 0.12, 0.135, 0.1, 0.125, 0.12, 0.11, 0.105, 0.075, 0.06], [0.09, 0.125, 0.085, 0.07, 0.13, 0.135, 0.115, 0.11, 0.085, 0.08], [0.06, 0.075, 0.1, 0.075, 0.135, 0.135, 0.09, 0.1, 0.1, 0.08]]]
+ttest_rel for BT vs DT for number of trees 10: t = 0.440171 p = 0.670195
+ttest_rel for BT vs DT for number of trees 25: t = -3.08672 p = 0.0129981
+ttest_rel for BT vs DT for number of trees 50: t = -4.3885 p = 0.00174936
+ttest_rel for BT vs DT for number of trees 100: t = -5.09189 p = 0.000652261
+ttest_rel for RF vs DT for number of trees 10: t = -0.128887 p = 0.900281
+ttest_rel for RF vs DT for number of trees 25: t = -3.84085 p = 0.00396139
+ttest_rel for RF vs DT for number of trees 50: t = -4.93206 p = 0.000811043
+ttest_rel for RF vs DT for number of trees 100: t = -3.83576 p = 0.00399233
+ttest_rel for BDT vs DT for number of trees 10: t = -3.73705 p = 0.00464663
+ttest_rel for BDT vs DT for number of trees 25: t = -7.129 p = 5.49042e-05
+ttest_rel for BDT vs DT for number of trees 50: t = -9.73286 p = 4.48074e-06
+ttest_rel for BDT vs DT for number of trees 100: t = -11.61 p = 1.01974e-06

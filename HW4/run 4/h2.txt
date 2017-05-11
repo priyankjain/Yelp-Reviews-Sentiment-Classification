@@ -1,0 +1,16 @@
+ttest_rel for DT vs SVM for number of features 200: t = 8.41026  p = 1.48118e-05
+ttest_rel for DT vs SVM for number of features 500: t = 12.9868  p = 3.91692e-07
+ttest_rel for DT vs SVM for number of features 1000: t = 10.3013  p = 2.79342e-06
+ttest_rel for DT vs SVM for number of features 1500: t = 10.5584  p = 2.27227e-06
+ttest_rel for BT vs SVM for number of features 200: t = 1.90194  p = 0.0896101
+ttest_rel for BT vs SVM for number of features 500: t = 6.00208  p = 0.000201984
+ttest_rel for BT vs SVM for number of features 1000: t = 5.19682  p = 0.00056646
+ttest_rel for BT vs SVM for number of features 1500: t = 4.46815  p = 0.00155882
+ttest_rel for RF vs SVM for number of features 200: t = 2.68742  p = 0.0249016
+ttest_rel for RF vs SVM for number of features 500: t = 3.75826  p = 0.00449701
+ttest_rel for RF vs SVM for number of features 1000: t = 4.63716  p = 0.00122418
+ttest_rel for RF vs SVM for number of features 1500: t = 5.63432  p = 0.000319932
+ttest_rel for BDT vs SVM for number of features 200: t = 3.35042  p = 0.00851781
+ttest_rel for BDT vs SVM for number of features 500: t = 2.31046  p = 0.0462015
+ttest_rel for BDT vs SVM for number of features 1000: t = 4.48359  p = 0.00152452
+ttest_rel for BDT vs SVM for number of features 1500: t = 7.13843  p = 5.43433e-05
